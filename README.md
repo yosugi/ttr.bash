@@ -57,3 +57,7 @@ $TTR_EDITOR specify editor (default: vi)
 ## License
 
 MIT License
+
+## Version
+
+v0.1.0
